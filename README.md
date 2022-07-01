@@ -1,5 +1,5 @@
 # MC_Dislocations
--Modelled system energy decrease in a dislocation cell lattice using a Monte Carlo algorithm in Python
+-Modelled system energy decrease in a dislocation cell lattice using a Monte Carlo algorithm in Python <br>
 -Extended algorithm to ilustrate radial pair distribution occuring within atomic dislocations
 -Accelerated scientific analysis by using Numba
 
