@@ -1,4 +1,6 @@
-# MCdislocations-radialpair
--Created a program with Python to model the Monte Carlo algorithm for dislocation cells to prove that randomization within the cells ultimately result in a decrease in energy over time
--Using iteration and functions, developed an extension to the Monte carlo algorithm that illustrates the radial pair distribution within dislocations in an atom
--Utilized Numba, a Python module to accelerate the scientific analysis of the atomistic code
+# MC_Dislocations
+-Modelled system energy decrease in a dislocation cell lattice using a Monte Carlo algorithm in Python
+-Extended algorithm to ilustrate radial pair distribution occuring within atomic dislocations
+-Accelerated scientific analysis by using Numba
+
+This is one of the projects I worked on as an Undergraduate Research Assistant in Professor Asta's Research Group. I worked with PhD student Anas Abu-Odeh to explore innovations in computational materials science, focusing on atomistic simulations and modelling of dislocations of alloys.
